@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+
+.title{
+    font-weight: 800;
+    color: rgb(3, 124, 223);
+    text-align: center;
+}
+
